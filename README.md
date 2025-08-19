@@ -80,9 +80,7 @@ A powerful web scraping tool powered by AI that allows you to extract informatio
 ```
 
 
-## 👥 Authors
 
--  [@sabhi782](https://github.com/sabhi728)
 
 ## 🙏 Acknowledgments
 
@@ -93,5 +91,5 @@ A powerful web scraping tool powered by AI that allows you to extract informatio
 ---
 
 <div align="center">
-Made with ❤️ by Abhishek sharma
+
 </div>
