@@ -40,7 +40,7 @@ A powerful web scraping tool powered by AI that allows you to extract informatio
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sabhi728/web_scrapping_ai_agent.git
+   git clone https://github.com/meghaagarwaal/AI-Web-Scrapping.git
    ```
 
 2. **Create a virtual environment (recommended)**
